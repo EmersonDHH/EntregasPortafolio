@@ -1,0 +1,7 @@
+Este link redirige al repositorio de GitHub donde se encuentra alojado mi proyecto:
+
+	https://github.com/EmersonDHH/Portafolio-Profesional
+
+
+Este link redirige al proyecto desplegado por medio de vercel: 
+	https://portafolio-profesional-orcin.vercel.app/
